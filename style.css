@@ -44,15 +44,24 @@ form {
     margin: auto;
 }
 
+.containerForm {
+    margin-top:100px;
+}
+
 .box{
     background-color: rgb(92, 92, 92);
     width:50%;
     height:380px;
     margin: auto;
     border-radius: 25px;
-    margin-top:150px;
-    padding-top:50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.btn-primary {
+
+    width: 50%;
+    margin-top: 15px;
+
 }
 
 label{
@@ -95,6 +104,6 @@ col{
 
 .inputForm {
 
-    width:300px;
+    width: 90%;
 
 }
