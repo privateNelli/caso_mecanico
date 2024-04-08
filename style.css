@@ -79,6 +79,7 @@ label{
     background-color: rgb(252, 192, 18);
     width:40%;
     height:150;
+    border-radius: 20px;
 }
 
 .box4{
@@ -92,3 +93,12 @@ col{
     margin-left: 20px;
 }
 
+.carousel{
+    width: 600px;
+    height: 800px;
+    margin: auto;
+}
+
+.carousel img {
+    border-radius: 25px;
+}
