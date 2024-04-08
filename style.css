@@ -45,7 +45,7 @@ form {
 }
 
 .box{
-    background-color: rgb(252, 192, 18);
+    background-color: rgb(92, 92, 92);
     width:50%;
     height:380px;
     margin: 60%;
@@ -62,7 +62,7 @@ small{
     color:white;
 }
 
-.label{
+label{
     color:white;
 }
 
