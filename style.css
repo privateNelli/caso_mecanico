@@ -1,11 +1,19 @@
+@font-face{
+    font-family: DOCALLISME ON THE STREET;
+    src: url(DOCALLISME\ ON\ STREET.ttf);
+}
+
 
 body{
     background-color: black;
 }
 
 h1{
+    font-family: DOCALLISME ON THE  STREET;
     color: rgb(252, 192, 18);
     text-align: center;
+    font-size: 100px;
+    font-style: normal;
 }
 
 h2{
@@ -15,17 +23,25 @@ h2{
 }
 
 p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:white;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 
-ul{
+.ul{
     color:white;
     align-items: center;
     text-align: center;
     background-color: rgb(252, 192, 18);
     border-radius: 20px;
+}
+
+ul{
+    color:white;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
 }
 
 .ul1{
@@ -96,6 +112,16 @@ label{
     
     width:30%;
     height:150px;
+}
+
+.carousel{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+}
+
+.carousel img{
+    border-radius: 25px;
 }
 
 col{
