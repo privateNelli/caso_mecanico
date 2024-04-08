@@ -52,6 +52,7 @@ form {
     border-radius: 25px;
     margin-top:150px;
     padding-top:50px;
+    padding-bottom: 50px;
 }
 
 label{
@@ -92,3 +93,8 @@ col{
     margin-left: 20px;
 }
 
+.inputForm {
+
+    width:300px;
+
+}
