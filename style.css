@@ -153,8 +153,8 @@ col{
 }
 
 .img1{
-    width: 300px;
-    height: 300px;
+    width: 450px;
+    height: 350px;
     margin: auto;
     margin-top: 5px;
 }
@@ -170,8 +170,14 @@ nav{
     width:100%;
 }
 
-.card{
+.card img{
+    width: auto;
     margin-top: 20px;
+    margin: auto;
+}
+
+h3{
+    color: white;
 }
 
 .wt{
