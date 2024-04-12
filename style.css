@@ -106,9 +106,9 @@ label{
     background-color: rgb(252, 192, 18);
     width: 60%;
     height:400px;
-    margin:auto;
+    margin-left: 200px;
     margin-top: 10px;
-    border-radius: 25px;
+    border-radius: 10px;
 }
 
 .box3{
@@ -145,8 +145,9 @@ col{
 }
 
 .img1{
-    width: auto;
-    height: auto;
+    width: 220px;
+    height: 260px;
+    margin: auto;
 }
 
 nav{
@@ -156,4 +157,8 @@ nav{
 .card{
     width:60%;
     height:480px;
-}   
+}
+
+.wt{
+    color: white;
+}
