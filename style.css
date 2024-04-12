@@ -110,6 +110,14 @@ label{
     margin-top: 10px;
     border-radius: 10px;
 }
+.box5{
+    background-color: rgb(141, 106, 0);
+    width: 60%;
+    height:400px;
+    
+    margin-top: 10px;
+    border-radius: 10px;
+}
 
 .box3{
     background-color: rgb(252, 192, 18);
@@ -145,9 +153,17 @@ col{
 }
 
 .img1{
-    width: 220px;
-    height: 260px;
+    width: 300px;
+    height: 300px;
     margin: auto;
+    margin-top: 5px;
+}
+
+.img2{
+    width: 80%;
+    height: 75%;
+    margin: auto;
+    border-radius: 10px;
 }
 
 nav{
@@ -155,8 +171,7 @@ nav{
 }
 
 .card{
-    width:60%;
-    height:480px;
+    margin-top: 20px;
 }
 
 .wt{
