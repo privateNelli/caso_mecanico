@@ -45,6 +45,10 @@ ul{
     font-size: 18px;
 }
 
+.ul2{
+    align-items: left;
+}
+
 .ul1{
     background-color: aliceblue;
     
